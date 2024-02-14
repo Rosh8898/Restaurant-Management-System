@@ -1,0 +1,3 @@
+Prathamesh restaurant!
+sada dosa,pizza,burger,idli,sandwitch,shake,coffee,biryani
+100, 150, 200, 300, 250, 120, 25,100
